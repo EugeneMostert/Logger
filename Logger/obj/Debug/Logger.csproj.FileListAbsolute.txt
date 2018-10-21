@@ -1,0 +1,6 @@
+C:\Users\eugen\Documents\Visual Studio 2017\Projects\Logger\Logger\bin\Debug\Logger.dll
+C:\Users\eugen\Documents\Visual Studio 2017\Projects\Logger\Logger\bin\Debug\Logger.pdb
+C:\Users\eugen\Documents\Visual Studio 2017\Projects\Logger\Logger\obj\Debug\Logger.csprojAssemblyReference.cache
+C:\Users\eugen\Documents\Visual Studio 2017\Projects\Logger\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+C:\Users\eugen\Documents\Visual Studio 2017\Projects\Logger\Logger\obj\Debug\Logger.dll
+C:\Users\eugen\Documents\Visual Studio 2017\Projects\Logger\Logger\obj\Debug\Logger.pdb
